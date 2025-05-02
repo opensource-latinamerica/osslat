@@ -1,0 +1,27 @@
+---
+main: 
+  - name: Blog
+    identifier: blog
+    weight: 1
+    url: blog
+    params:
+      icon: '<i class="fas fa-fw fa-terminal"></i>'
+  - name: News
+    identifier: news
+    weight: 2
+    url: news
+    params:
+      icon: '<i class="fas fa-fw fa-newspaper"></i>'
+  - name: Authors
+    identifier: authors
+    weight: 3
+    url: authors
+    params:
+      icon: '<i class="fas fa-fw fa-heart"></i>'
+  - name: Contact
+    identifier: contact
+    weight: 100
+    url: contact
+    params: 
+      icon: '<i class="fas fa-fw fa-bug"></i>'
+---
