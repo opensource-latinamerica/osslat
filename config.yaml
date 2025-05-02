@@ -1,0 +1,4 @@
+title: OpenSource LATAM
+copyright: 'Copyright © 2022-{year} OpenSource LATAM Community. All Rights Reserved.'
+baseURL: /
+theme: hugo-theme-bootstrap

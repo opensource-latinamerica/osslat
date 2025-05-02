@@ -1,0 +1,30 @@
+paginate: 10
+paginatePath: page
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+enableGitInfo: true
+IsMultiLingual: true
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+  authors: authors
+
+build:
+  writeStats: true
+
+permalinks:
+  news: /news/:year/:month/:title/
+  blog: /blog/:year/:month/:title/
+
+security:
+  funcs:
+    getenv: ['^HUGO_', '^CI$', 'PWD']
+
+services:
+  googleAnalytics:
+    ID: G-91V61NR6L9
