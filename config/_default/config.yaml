@@ -1,5 +1,3 @@
-paginate: 10
-paginatePath: page
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
@@ -8,11 +6,16 @@ IsMultiLingual: true
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 
+pagination:
+  pagerSize: 10
+  path: page
+
 taxonomies:
   category: categories
   series: series
   tag: tags
-  authors: authors
+  author: authors
+  social: socials
 
 build:
   writeStats: true
