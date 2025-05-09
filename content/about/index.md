@@ -6,10 +6,6 @@ postDate = false
 readingTime = false
 +++
 
-Here’s the translation into English:
-
----
-
 ## About our OpenSource LATAM Community
 
 Welcome to our exciting open-source community in Latin America. We are united by our shared passion for free software and open collaboration. In our community, we experience the richness of the cultural diversity that characterizes Latin America, and this is reflected in the mix of languages, perspectives, and approaches we bring to our projects.
@@ -39,13 +35,9 @@ The main characteristics of a Latin American open-source community could include
 
 Our community always strives to foster an inclusive and collaborative environment where participants can learn, contribute, and grow together while working on projects that have a positive impact in the region and beyond.
 
----
-
 - We invite you to join our public Slack: https://slack.oss.lat
 - If you would like to contribute, go to: https://github.com/orgs/opensource-latinamerica/discussions/5
 - The codes of conduct we follow to maintain order and equality are based on [OpenInfra](https://github.com/opensource-latinamerica/openinframx/blob/main/CODE_OF_CONDUCT.es.md) [Ceph](https://ceph.io/en/code-of-conduct/) [CNCF](https://github.com/cncf/foundation/blob/main/code-of-conduct-languages/es.md), but it is important to note that we are not supported by or take orders from any of them.
-
----
 
 Sincerely,
 OpenSource LATAM Community
