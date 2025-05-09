@@ -18,10 +18,10 @@ main:
     url: authors
     params:
       icon: '<i class="fas fa-fw fa-heart"></i>'
-  - name: Contact
-    identifier: contact
+  - name: Events
+    identifier: Events
     weight: 100
-    url: contact
+    url: events
     params: 
       icon: '<i class="fas fa-fw fa-bug"></i>'
 ---

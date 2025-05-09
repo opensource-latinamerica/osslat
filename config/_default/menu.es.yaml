@@ -18,10 +18,10 @@ main:
     url: "es/authors"
     params:
       icon: '<i class="fas fa-fw fa-heart"></i>'
-  - name: Contacto
-    identifier: contacto
+  - name: Eventos
+    identifier: Eventos
     weight: 100
-    url: "es/contact"
+    url: "es/events"
     params:
       icon: '<i class="fas fa-fw fa-bug"></i>'
 ---
