@@ -7,7 +7,7 @@ mainSections:
 
 # titleSeparator: '|' # Title separator. Default to -.
 
-description: "Open Infrastructure CDMX User Group focused on community development across Mexico."
+description: "Open Source Latin America. User Group focused on community development across LATAM."
 keywords: "opensource, latam, community, comunidad"
 # metaRobots: noindex, nofollow # Default value for Meta Tag robots
 # metaRobots:  # disable Meta Tag robots
@@ -193,7 +193,7 @@ search:
 pwa:
   manifest:
     # name:  # Default to site title.
-    short_name: OIM
+    short_name: OSSLAT
     # display: fullscreen # Default to standalone.
     # description:  # Default to site description.
     # theme_color: 
@@ -227,3 +227,21 @@ topAppBar:
 
 feeds:
   content: false
+
+author:
+  name: "OSS LATAM"
+  bio: "Open Source Latin America."
+  avatar: "images/author.png"
+
+social:
+  github: opensource-latinamerica
+  twitter: OpenInfraCDMX
+  email: hello@oss.lat
+  youtube: UCpB__-WAEyHdvKAK0Y15akQ
+  trello: https://trello.com/b/AEpwaRgI
+  rss: "" # Remove RSS
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

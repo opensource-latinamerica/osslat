@@ -62,7 +62,6 @@
     "workbox-routing": "^6.4.2",
     "workbox-strategies": "^6.4.2"
   },
-  "devDependencies": {},
   "name": "oss.lat",
   "version": "0.1.0",
   "license": "CC0-1.0",

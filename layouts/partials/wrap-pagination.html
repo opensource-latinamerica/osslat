@@ -1,0 +1,10 @@
+{{ if eq .Kind "home" }}
+  {{ with $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+    {{ if $paginator.HasPrev }}
+      <link rel="prev" href="{{ $paginator.Prev.URL | absURL }}" />
+    {{ end }}
+    {{ if $paginator.HasNext }}
+      <link rel="next" href="{{ $paginator.Next.URL | absURL }}" />
+    {{ end }}
+  {{ end }}
+{{ end }}
