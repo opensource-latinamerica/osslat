@@ -15,7 +15,7 @@ keywords: "opensource, latam, community, comunidad"
 logo: "images/author.png"
 color: "light"
 palettes: []
-palette: "white"
+palette: "blue-gray"
 
 # fullWidth: true # Full width.
 # fixedHeader: false # Turn on/off fixed header.
