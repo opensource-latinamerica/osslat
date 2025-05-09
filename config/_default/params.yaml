@@ -221,6 +221,7 @@ repo:
   branch: main
 
 topAppBar:
+  colorToggle: false
   social:
     email: hello@oss.lat
     rss: ""
