@@ -1,7 +1,7 @@
 ---
 # type: docs
 title: "IA y Kubernetes: ¿Cuál es la Conexión?"
-date: 2025-11-14T10:00:00-06:00
+date: 2025-11-13T10:00:00-06:00
 featured: true
 draft: false
 comment: false

@@ -19,7 +19,7 @@ authors:
 images: ["/images/news/Love_you.jpg"]
 ---
 
-Our current friends list<br>
+Our current friends list
 
 <!--more-->
 
