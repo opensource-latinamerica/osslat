@@ -1,5 +1,5 @@
 ---
-title: "Why OpenInfra and SCaLE are a Perfect Match: A Pasadena Event Recap"
+title: "Why OpenInfraDays NA and SCaLE Are a Perfect Match: A Pasadena Event Recap"
 date: 2025-04-18T10:00:00-06:00
 draft: false
 featured: true

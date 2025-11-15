@@ -1,5 +1,5 @@
 ---
-title: "Por Qué OpenInfra y SCaLE Son la Combinación Perfecta: Resumen del Evento en Pasadena"
+title: "Por Qué OpenInfraDays NA y SCaLE Son la Combinación Perfecta: Resumen del Evento en Pasadena"
 date: 2025-04-18T10:00:00-06:00
 draft: false
 featured: true

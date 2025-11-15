@@ -24,8 +24,6 @@ images:
   ]
 ---
 
-## IA y Kubernetes: ¿Cuál es la Conexión?
-
 Escuchamos "IA" y "Kubernetes" por todas partes. Por sí solas, son dos of las fuerzas más grandes en la tecnología. Pero cuando las combinas, se resuelven problemas gigantescos mutuamente.
 
 Piénsalo de esta manera: **los modelos de IA son los "cerebros" complejos y potentes, pero Kubernetes es la "fábrica" a escala industrial necesaria para construirlos y operarlos.**
