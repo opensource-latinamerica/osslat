@@ -4,3 +4,6 @@ en:
 es:
   languageName: Español
   weight: 4
+pt:
+  languageName: Português
+  weight: 5
