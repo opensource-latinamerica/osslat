@@ -20,7 +20,7 @@ authors:
   - oss.lat
 images:
   [
-    "/images/blog/kubernetes-logo.svg"
+    "/images/blog/ai-k8s.png"
   ]
 ---
 
