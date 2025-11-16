@@ -3,7 +3,7 @@ enableEmoji: true
 pygmentsUseClasses: true
 enableGitInfo: true
 IsMultiLingual: true
-defaultContentLanguage: en
+defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
 
 pagination:
