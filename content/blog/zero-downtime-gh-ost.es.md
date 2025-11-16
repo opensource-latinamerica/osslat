@@ -1,6 +1,6 @@
 ---
 title: "Migraciones de Esquema y Datos de Base de Datos sin Interrupción con gh-ost: Un Imprescindible en Producción"
-date: 2025-11-14T15:30:00-06:00
+date: 2025-11-18T15:30:00-06:00
 featured: true
 draft: false
 comment: false
