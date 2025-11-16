@@ -20,7 +20,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/kubernetes-logo.svg
+  - /images/blog/k8s-comparison.png
 ---
 
 Full-blown Kubernetes can be a beast to set up. Whether you're a developer who just wants to test an app, a CI/CD pipeline that needs to spin up a fresh cluster for every build, or an operator deploying to a tiny edge device, you need a faster, lighter solution.

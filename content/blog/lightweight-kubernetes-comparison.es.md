@@ -20,7 +20,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/kubernetes-logo.svg
+  - /images/blog/k8s-comparison.png
 ---
 
 Un clúster de Kubernetes completo puede ser una bestia de configurar. Ya seas un desarrollador que solo quiere probar una app, un pipeline de CI/CD que necesita levantar un clúster nuevo para cada build, o un operador desplegando en un pequeño dispositivo edge, necesitas una solución más rápida y ligera.
