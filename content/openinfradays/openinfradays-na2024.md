@@ -1,5 +1,5 @@
 ---
-title: OpenInfra Days North America 2024
+title: OpenInfra Days Norteamérica 2024
 date: 2024-08-15T11:34:47+08:00
 featured: true
 draft: false
@@ -20,47 +20,47 @@ authors:
 images: ["/images/openinfradays/oid-na2024.png"]
 ---
 
-The first ever OpenInfra Days North America (United States, Mexico, and Canada) 2024.
+El primeros OpenInfra Days Norteamérica (Estados Unidos, México y Canadá) 2024.
 
 <!--more-->
 
-OpenInfra Days are organized and hosted annually by local User Groups and companies in the ecosystem and are often one or two-day events with keynotes, breakout sessions, and even workshops.
+El primeros OpenInfra Days Norteamérica (Estados Unidos, México y Canadá) 2024.
 
-This first OpenInfra Days North America, hosted by Indiana University, US is being jointly organized by participants from the United States, Mexico, and Canada. We encourage involvement from users and companies from these countries and hope to have lively networking and community-building.
+Los OpenInfra Days son organizados anualmente por grupos de usuarios locales y empresas del ecosistema y, a menudo, son eventos de uno o dos días con conferencias magistrales, sesiones de trabajo e incluso talleres.
 
-OpenInfra Days is a great opportunity to hear directly from prominent open infrastructure leaders, learn from user stories, network, and plug into your local community.
+Este primer OpenInfra Days Norteamérica, organizado por la Universidad de Indiana en Los Estados Unidos y co-organizado conjuntamente por las comunidades participantes de Estados Unidos, México y Canadá. Alentamos la participación de usuarios y empresas de estos países y esperamos tener una buena convivencia y la creación de comunidades.
 
-There is a nominal registration fee to cover breakfasts, lunches, and refreshments. We invite you to take a look at the event web page by clicking [here](https://ittraining.iu.edu/explore-topics/titles/oid-iu/index.html)
+OpenInfra Days es una gran oportunidad para escuchar directamente a destacados líderes de infraestructura abierta, aprender de historias de usuarios, establecer contactos y conectarse con su comunidad local.
 
-#Important dates:
+Hay una tarifa de inscripción nominal para cubrir desayunos, almuerzos y refrigerios. Te invitamos a echar un vistazo a la página web del evento haciendo clic [aquí](https://ittraining.iu.edu/explore-topics/titles/oid-iu/index.html)
 
- - July 15 - Registration, Call for Proposals (CFP), and Call for Sponsors opens
- - August 16 - Call for Proposals due EXTENDED!
- - August 26 - CFP notification of acceptance
- - August 30 - Program announced, Early deadline for sponsors
- - September 6 - Early-bird registration closes
- - September 16 - Regular registration closes, hotel blocks released
- - October 7 - Late registration closes
- - October 11 - Final camera-ready presentations due
- - October 15-16 - OpenInfra Days at IU!
+#FechasImportantes:
+
+ - 15 de julio: se abre la inscripción, la convocatoria de propuestas (CFP) y la convocatoria de patrocinadores
+ - 16 de agosto: ¡PLAZADO!
+ - 26 de agosto: notificación de aceptación de la CFP
+ - 30 de agosto: programa anunciado, fecha límite anticipada para patrocinadores
+ - 6 de septiembre: finaliza la inscripción anticipada
+ - 16 de septiembre: se cierra el registro regular y se liberan los bloques de hoteles
+ - 7 de octubre: se cierra la inscripción tardía
+ - 11 de octubre: fechas límite para las presentaciones finales listas para la cámara
+ - 15 y 16 de octubre: ¡Días OpenInfra en IU!
 
 #Agenda
-Sched meeting planner software is being used for the agenda. After you register for OpenInfra Days at IU you will receive an invitation to create a Sched account if you don’t already have one (it may take a few days for us to send you the invite after you register).
+Para la agenda se utiliza el software de planificación de reunione Sched. Después de registrarse para OpenInfra Days en IU, recibirá una invitación para crear una cuenta Sched si aún no tiene una (es posible que nos lleve algunos días enviarle la invitación después de registrarse).
 
-The Sched platform allows attendees to create a profile to connect with other participants. **We encourage everyone to create a Sched profile and upload your photo and biographical information. It is a great way to learn about all the attendees and network with each other**.
+La plataforma Sched permite a los asistentes crear un perfil para conectarse con otros participantes. **Alentamos a todos a crear un perfil de Sched y cargar su foto e información biográfica. Es una excelente manera de conocer a todos los asistentes y establecer contactos entre ellos**.
 
-If you see the alert **YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES** when you click on your own profile and you would like to make your profile public, follow these steps:
+Si ve la alerta **SU PERFIL Y HORARIO ESTÁN OCULTOS PARA LOS ASISTENTES** cuando hace clic en su propio perfil y desea que su perfil sea público, siga estos pasos:
 
- - Go [here](https://oidiu2024.sched.com/)
- - Login to Sched in the upper right corner
- - Click on your image or initials in upper right corner
- - Choose SETTINGS
- - Under Privacy & Email, turn the switch for MAKE MY PROFILE & SCHEDULE PUBLIC to green.
- - You can update other information in your schedule (like a photo and institutional affiliation)
- - **IMPORTANT**: Scroll all the way to bottom and choose SAVE SETTINGS
+ - ir [aquí](https://oidiu2024.sched.com/)
+ - Inicie sesión en Sched en la esquina superior derecha
+ - Haga clic en su imagen o iniciales en la esquina superior derecha
+ - Elija CONFIGURACIÓN
+ - En Privacidad y correo electrónico, gire el interruptor para HACER PÚBLICO MI PERFIL Y HORARIO a verde.
+ - Puedes actualizar otra información en tu agenda (como una foto y afiliación institucional)
+ - **IMPORTANTE**: Desplácese hasta el final y elija GUARDAR CONFIGURACIÓN
 
-**The Sched account is free. Use it to view sessions, contact other attendees, and access the repository of archived talks after OpenInfra Days at IU.**
+**La cuenta Sched es gratuita. Úselo para ver sesiones, contactar a otros asistentes y acceder al repositorio de charlas archivadas después de OpenInfra Days en IU.**
 
-Pro-tip! In Sched, click on SCHEDULE (next to SPEAKERS, COMMITTEE, etc) and then choose EXPANDED view to see the abstracts of each talk and the speaker’s name.
-
-
+¡Consejo! En Sched, haga clic en PROGRAMAR (junto a PONENTES, COMITÉ, etc.) y luego elija vista AMPLIADA para ver los resúmenes de cada charla y el nombre del orador.

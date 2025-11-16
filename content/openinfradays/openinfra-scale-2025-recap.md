@@ -1,5 +1,5 @@
 ---
-title: "Why OpenInfraDays NA and SCaLE Are a Perfect Match: A Pasadena Event Recap"
+title: "Por Qué OpenInfraDays NA y SCaLE Son la Combinación Perfecta: Resumen del Evento en Pasadena"
 date: 2025-04-18T10:00:00-06:00
 draft: false
 featured: true
@@ -16,43 +16,43 @@ tags:
   - OpenStack
   - Kubernetes
   - AI
-  - Community
+  - Comunidad
 authors:
   - oss.lat
 images:
   - /images/events/openinfra-scale-2025.jpg
 ---
 
-For the open-source community, there are few events as authentic as the Southern California Linux Expo, better known as **SCaLE**. It’s the largest community-run open-source conference in North America. So, it made perfect sense that the **OpenInfra Foundation** chose to co-locate its **"OpenInfra Days North America"** event right alongside it this year in Pasadena.
+Para la comunidad de código abierto, hay pocos eventos tan auténticos como la Exposición de Linux del Sur de California, más conocida como **SCaLE**. Es la conferencia de código abierto más grande de Norteamérica gestionada por la propia comunidad. Por eso, tuvo todo el sentido del mundo que la **Fundación OpenInfra** eligiera co-localizar su evento **"OpenInfra Days North America"** justo allí este año en Pasadena.
 
-It wasn't just a booth; it was a full two-day track dedicated to the building blocks of our digital world. If SCaLE is the festival for the entire open-source community, OpenInfra Days was the "backstage" where the builders of the core infrastructure gathered.
+No fue solo un stand; fue un track completo de dos días dedicado a los cimientos de nuestro mundo digital. Si SCaLE es el festival para toda la comunidad de código abierto, OpenInfra Days fue el "backstage" donde se reunieron los constructores de la infraestructura central.
 
-Here’s a quick recap of the key themes that dominated the conversations.
+Aquí hay un breve resumen de los temas clave que dominaron las conversaciones.
 
-### 1. The Great Migration: Moving Beyond VMware
+### 1. La Gran Migración: Moviéndose Más Allá de VMware
 
-This was arguably the hottest topic. With recent shifts in the virtualization landscape, organizations are actively searching for stable, open-source alternatives. The OpenInfra track was packed with sessions and real-world case studies on:
-* **Practical migration strategies** from VMware to OpenStack.
-* Tools and techniques to simplify the process.
-* Cost-benefit analyses from companies that have already made the leap.
+Este fue, sin duda, el tema más candente. Con los cambios recientes en el panorama de la virtualización, las organizaciones están buscando activamente alternativas estables y de código abierto. El track de OpenInfra estuvo repleto de sesiones y casos de estudio del mundo real sobre:
+* **Estrategias prácticas de migración** desde VMware a OpenStack.
+* Herramientas y técnicas para simplificar el proceso.
+* Análisis de costo-beneficio de empresas que ya han dado el salto.
 
-The message was clear: OpenStack isn't just a viable alternative; it's a mature, robust solution that operators are turning to *right now* for cost efficiency and control.
+El mensaje fue claro: OpenStack no es solo una alternativa viable; es una solución madura y robusta a la que los operadores están recurriendo *ahora mismo* en busca de eficiencia de costos y control.
 
-### 2. AI is Infrastructure (and Vice-Versa)
+### 2. La IA es Infraestructura (y Viceversa)
 
-The AI and GenAI buzz was everywhere, but the OpenInfra talks cut through the hype and focused on the practicalities. The community is focused on answering the question: "How do we *run* this?"
+El revuelo de la IA y la IA Generativa estaba en todas partes, pero las charlas de OpenInfra se saltaron el "hype" y se centraron en los aspectos prácticos. La comunidad está enfocada en responder la pregunta: "¿Cómo *ejecutamos* esto?"
 
-Discussions centered on:
-* Using OpenStack and Kubernetes (K8s) to manage massive GPU workloads.
-* Leveraging **Kata Containers** for secure, isolated AI environments.
-* How projects like **Zuul** are being used to build CI/CD pipelines for machine learning models.
-* The future of AI in open source and how OpenInfra projects can power it.
+Las discusiones se centraron en:
+* Usar OpenStack y Kubernetes (K8s) para gestionar cargas de trabajo masivas de GPU.
+* Aprovechar **Kata Containers** para entornos de IA seguros y aislados.
+* Cómo proyectos como **Zuul** se están utilizando para construir pipelines de CI/CD para modelos de machine learning.
+* El futuro de la IA en el código abierto y cómo los proyectos de OpenInfra pueden potenciarla.
 
-### 3. Community and the Next Generation
+### 3. La Comunidad y la Próxima Generación
 
-Beyond the tech, the event was a powerful reminder that "open source" is all about the people.
-* The OpenInfra Foundation hosted a "Meet and Greet" with its leadership, giving community members direct access to the people steering the projects.
-* There was a fantastic session on the **OpenInfra University Partnership Program**, highlighting efforts to get students involved in core open-source projects *before* they graduate.
-* And, of course, there was a celebration for **OpenStack's 15th Birthday**, which brought together veterans and newcomers alike.
+Más allá de la tecnología, el evento fue un poderoso recordatorio de que el "código abierto" se trata de las personas.
+* La Fundación OpenInfra organizó un "Meet and Greet" (encuentro) con sus líderes, dando a los miembros de la comunidad acceso directo a las personas que dirigen los proyectos.
+* Hubo una sesión fantástica sobre el **Programa de Asociación Universitaria de OpenInfra**, destacando los esfuerzos para involucrar a los estudiantes en proyectos clave de código abierto *antes* de que se gradúen.
+* Y, por supuesto, hubo una celebración por el **15º Cumpleaños de OpenStack**, que reunió tanto a veteranos como a recién llegados.
 
-**The takeaway:** The partnership between OpenInfra and SCaLE is a perfect fit. It connects the builders of core infrastructure (OpenStack, Ceph, Kata, StarlingX) with the massive, diverse community of users, developers, and sysadmins who depend on it every day.
+**La conclusión:** La asociación entre OpenInfra y SCaLE es una combinación perfecta. Conecta a los constructores de infraestructura central (OpenStack, Ceph, Kata, StarlingX) con la comunidad masiva y diversa de usuarios, desarrolladores y administradores de sistemas que dependen de ella todos los días.

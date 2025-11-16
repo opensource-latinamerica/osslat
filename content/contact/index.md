@@ -1,5 +1,5 @@
 ---
-title: "Contact us"
+title: "Contáctanos"
 layout: "contact"
 postDate: false
 readingTime: false

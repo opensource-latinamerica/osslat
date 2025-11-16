@@ -1,7 +1,7 @@
 ---
 title: OpenSource LATAM
-description: Open Source Latin America. User Group focused on community development across LATAM.
-avatar: /images/author.png
+description: Open Source LATAM. Grupo de usuarios enfocados en el desarrollo comunitario en Latinoamérica.
+avatar: images/author.png
 social:
   github: opensource-latinamerica
   email: hello@oss.lat

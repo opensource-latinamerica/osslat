@@ -1,8 +1,8 @@
 ---
-title: "The Great Migration: Why Broadcom's VMware Decisions Are Driving Customers to OpenStack"
+title: "La Gran Migración: Por Qué las Decisiones de Broadcom sobre VMware Están Llevando a los Clientes a OpenStack"
 date: 2025-10-01T10:00:00-06:00
-featured: true
 draft: false
+featured: true
 comment: false
 toc: true
 reward: false
@@ -17,52 +17,52 @@ tags:
   - migration
   - cloud
   - iaas
-  - private-cloud
+  - nube-privada
 authors:
   - oss.lat
 images:
   - /images/blog/vmware-to-openstack.png
 ---
 
-The technology landscape is experiencing a major shift, and it’s all centered around virtualization. The acquisition of VMware by Broadcom has set off a tidal wave of strategic reviews in IT departments worldwide.
+El panorama tecnológico está experimentando un cambio radical, y todo se centra en la virtualización. La adquisición de VMware por Broadcom ha desatado una oleada de revisiones estratégicas en los departamentos de TI de todo el mundo.
 
-Faced with the end of perpetual licenses, a mandatory shift to new subscription-only models (often bundled into the all-or-nothing VMware Cloud Foundation - VCF), and significant price hikes, long-time VMware customers are feeling backed into a corner.
+Enfrentados al fin de las licencias perpetuas, un cambio obligatorio a nuevos modelos de solo suscripción (a menudo empaquetados en el "todo o nada" VMware Cloud Foundation - VCF), e incrementos de precios significativos, los clientes históricos de VMware se sienten acorralados.
 
-This isn't just a simple price complaint. It's a fundamental crisis of cost, control, and future-proofing. And it’s causing a massive re-evaluation of alternatives. For many, the answer isn't a hyperscale public cloud, but a return to a powerful, mature, and open-source solution: **OpenStack**.
+Esto no es solo una simple queja sobre el precio. Es una crisis fundamental de costo, control y viabilidad futura. Y está provocando una reevaluación masiva de las alternativas. Para muchos, la respuesta no es una nube pública hiperescalar, sino un retorno a una solución de código abierto potente, madura y probada: **OpenStack**.
 
-Here’s why OpenStack is the clear destination for the "VMware refugee."
+He aquí por qué OpenStack es el destino claro para el "refugiado de VMware".
 
-### 1. Reclaiming Cost Control and Predictability
+### 1. Recuperando el Control de Costos y la Previsibilidad
 
-The most immediate pain point for VMware customers is the sticker shock from new subscription mandates. Budgets that were stable for years are now facing a 2x, 5x, or even 10x increase for the same, or less, functionality.
+El punto de dolor más inmediato para los clientes de VMware es el impacto en el presupuesto de los nuevos mandatos de suscripción. Presupuestos que fueron estables durante años ahora enfrentan un aumento de 2x, 5x o incluso 10x por la misma, o menos, funcionalidad.
 
-* **OpenStack's Model:** OpenStack is open-source. There are **zero per-core, per-socket, or per-VM licensing fees**.
-* **Commodity Hardware:** It is designed to run on standard, commodity hardware. This frees you from expensive, proprietary server and storage-certified lists.
-* **Predictable TCO:** The cost of an OpenStack cloud is primarily hardware (a one-time CAPEX) and the operational team (a predictable OPEX). You are no longer at the mercy of a vendor's quarterly earnings goals or sudden changes in their go-to-market strategy.
+* **El Modelo de OpenStack:** OpenStack es código abierto. **No existen tarifas de licencia por núcleo, por socket o por VM**.
+* **Hardware Genérico (Commodity):** Está diseñado para funcionar en hardware estándar y genérico. Esto te libera de costosas listas de servidores y almacenamiento propietarios certificados.
+* **TCO Predecible:** El costo de una nube OpenStack es principalmente el hardware (un CAPEX único) y el equipo de operaciones (un OPEX predecible). Ya no estás a merced de los objetivos de ganancias trimestrales de un proveedor o de cambios repentinos en su estrategia de mercado.
 
-### 2. Escaping Vendor Lock-In
+### 2. Escapando del Cautiverio del Proveedor (Vendor Lock-in)
 
-The new Broadcom strategy has been widely seen as a "my way or the highway" approach, forcing customers into bundles they may not need. This is the very definition of vendor lock-in.
+La nueva estrategia de Broadcom ha sido vista en gran medida como un enfoque de "a mi manera o nada", obligando a los clientes a aceptar paquetes que pueden no necesitar. Esta es la definición misma de "vendor lock-in".
 
-* **Open Standards:** OpenStack is the antidote. It's an ecosystem built on open, well-documented APIs.
-* **Interoperability:** You can pick and choose your components. Don't like the default storage driver? Swap it for one from NetApp, Ceph, or a dozen other vendors. Need advanced networking? Plug in a solution from Juniper, Cisco, or an open-source option.
-* **A Community, Not a Company:** The OpenStack roadmap is driven by a global community and a diverse foundation, not a single corporation.
+* **Estándares Abiertos:** OpenStack es el antídoto. Es un ecosistema construido sobre APIs abiertas y bien documentadas.
+* **Interoperabilidad:** Puedes elegir tus componentes. ¿No te gusta el controlador de almacenamiento por defecto? Cámbialo por uno de NetApp, Ceph o una docena de otros proveedores. ¿Necesitas redes avanzadas? Conecta una solución de Juniper, Cisco o una opción de código abierto.
+* **Una Comunidad, No una Empresa:** La hoja de ruta de OpenStack es impulsada por una comunidad global y una fundación diversa, no por una sola corporación.
 
-### 3. A Mature, Enterprise-Ready Platform
+### 3. Una Plataforma Madura y Lista para la Empresa
 
-This isn't 2012. Any notion of OpenStack as a "science project" is laughably out of date.
+No estamos en 2012. Cualquier noción de que OpenStack es un "proyecto de ciencia" está ridículamente desactualizada.
 
-* **Battle-Tested:** OpenStack has been the quiet engine behind the world's largest telecommunications companies (powering 5G and NFV), major financial institutions, and massive e-commerce platforms for over a decade.
-* **It Manages More Than VMs:** OpenStack is a complete IaaS (Infrastructure as a Service) platform. It manages bare metal (Ironic), containers (Magnum/KubeVirt), and virtual machines (Nova) all from a single set of APIs. It provides the rock-solid foundation for a true private or hybrid cloud.
+* **Probado en Batalla:** OpenStack ha sido el motor silencioso detrás de las compañías de telecomunicaciones más grandes del mundo (impulsando 5G y NFV), las principales instituciones financieras y plataformas masivas de comercio electrónico durante más de una década.
+* **Gestiona Más que VMs:** OpenStack es una plataforma completa de IaaS (Infraestructura como Servicio). Gestiona bare metal (Ironic), contenedores (Magnum/KubeVirt) y máquinas virtuales (Nova), todo desde un único conjunto de APIs. Proporciona la base sólida para una verdadera nube privada o híbrida.
 
-### 4. The Path Forward: How the Migration Happens
+### 4. El Camino a Seguir: Cómo Ocurre la Migración
 
-Migrating from vSphere to OpenStack is a strategic project, and the path is well-defined.
-* **Tooling Exists:** The ecosystem has mature tools to assist in the migration, including direct VM-to-VM conversion and tools like **KubeVirt**, which can run virtual machines inside Kubernetes (often running *on* OpenStack) for a phased modernization.
-* **Expertise is Available:** The OpenInfra Foundation and its vast ecosystem of vendors (like Mirantis, Red Hat, and Canonical) have well-established playbooks for helping organizations make this exact transition.
+Migrar de vSphere a OpenStack es un proyecto estratégico, y el camino está bien definido.
+* **Existen Herramientas:** El ecosistema cuenta con herramientas maduras para ayudar en la migración, incluida la conversión directa de VM a VM y herramientas como **KubeVirt**, que puede ejecutar máquinas virtuales dentro de Kubernetes (a menudo corriendo *sobre* OpenStack) para una modernización por fases.
+* **La Experiencia Está Disponible:** La Fundación OpenInfra y su vasto ecosistema de proveedores (como Mirantis, Red Hat y Canonical) tienen manuales de estrategia bien establecidos para ayudar a las organizaciones a realizar esta transición exacta.
 
-### Conclusion
+### Conclusión
 
-The shift away from VMware is not just a reaction. It's a strategic "flight to safety"—safety from runaway costs, from unpredictable roadmaps, and from vendor lock-in.
+El alejamiento de VMware no es solo una reacción. Es un "vuelo hacia la seguridad" estratégico: seguridad frente a costos descontrolados, hojas de ruta impredecibles y el cautiverio del proveedor.
 
-Organizations are realizing that the control, flexibility, and predictable economics of OpenStack are not just "nice to have," but are a critical business advantage in an uncertain market. The door is open, and the OpenStack community is ready.
+Las organizaciones se están dando cuenta de que el control, la flexibilidad y la economía predecible de OpenStack no son solo "agradables de tener", sino que son una ventaja empresarial crítica en un mercado incierto. La puerta está abierta y la comunidad de OpenStack está lista.

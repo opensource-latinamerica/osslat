@@ -1,5 +1,5 @@
 ---
-title: Community Friends
+title: Amigos de la comunidad
 date: 2023-09-10T11:34:47+08:00
 featured: true
 draft: false
@@ -12,29 +12,29 @@ series:
   - News
 categories:
   - Mkt
-tags: 
+tags:
   - Advertising
 authors:
   - openinfra.mexico
 images: ["/images/news/Friends_.jpg"]
 ---
 
-Our way of saying thank you to everyone who contributes to LATAM community,
+Nuestra manera de decir gracias a todos los que contribuyen a la comunidad LATAM.
 
 <!--more-->
 
-Community friend rules
+Reglas para amigos de la comunidad
 
-As a company, send us an email with what you can help us with, and your logo and link to your webpage will be added here for 12 months.
-The order of the logos and names doesn't mean anything other than chronological order.
+Si eres compañia, envianos un correo explicando en lo que puedes ayudarnos. Como agradecimiento, tu logotipo y link de tu sitio web seran mostrados aquí durante 12 meses.
+El orden de los logotipos y nombres es cronológico y no significa alguna otra cosa.
 
-Examples can be the following:
+Algunos ejemplos de ayuda son:
 
-- Cloud hosting for our community apps and tools.
-- Meetup venues, beers, pizza, etc.
-- Stickers, t-shirts, pins, etc.
-- Speakers for remote or Mexico-based events
-- Conference access that we can offer to our community.
-- Whatever else you may think, it isn't money.
+- Hosting en la nube para apps y herramientas de la comunidad.
+- lugares para encuentros, cervezas, pizza, etc.
+- calcamonias, camisetas, pins, etc.
+- Ponentes remotos o para eventos basados en Mexico.
+- Acceso a conferencias que podamos ofrecer a la comunidad.
+- Cualquier otra cosa que se te ocurra, no nos referimos a dinero.
 
-As a person who gives a talk to our community and/or helps in any way, your name will be added and never deleted.
+Como persona que de una platica o ayude a nuestra comunidad, tu nombre sera añadido y no sera borrado nunca.

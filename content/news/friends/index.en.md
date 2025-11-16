@@ -1,5 +1,5 @@
 ---
-title: Amigos
+title: Friends
 date: 2023-09-20T11:34:47+08:00
 featured: true
 draft: false
@@ -12,14 +12,14 @@ series:
   - News
 categories:
   - Mkt
-tags:
+tags: 
   - Advertising
 authors:
   - alvaro.soto
 images: ["/images/news/Love_you.jpg"]
 ---
 
-Nuestra lista de amigos actual
+Our current friends list
 
 <!--more-->
 
@@ -27,7 +27,7 @@ Nuestra lista de amigos actual
 \
 ![KloudXperts](https://us.mirrors.headup.ws/random/images/kloudxperts-logo.jpg?width=500px#center "https://www.kloudxp.com/")
 \
-![Sentinel.la](https://us.mirrors.headup.ws/random/images/Sentinella.logo-02.png?width=500px#center "https://www.sentinel.la")
+![Sentinel.la](https://us.mirrors.headup.ws/random/images/sentinella-logo2.png?width=500px#center "https://www.sentinel.la")
 \
 ![Bitergia](https://us.mirrors.headup.ws/random/images/Bitergia.jpg?width=300px#center "https://bitergia.com/")
 

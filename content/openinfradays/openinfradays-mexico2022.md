@@ -20,31 +20,30 @@ authors:
 images: ["/images/Mexico-OpenInfra-Days-Black2x.png"]
 ---
 
-The first ever OpenInfra Days Mexico, 100% hosted by the local community.
+El primer OpenInfraDays Mexico creado 100% por la comunidad local.
 
 <!--more-->
 
-For the first time ever, the local community will host this year OpenInfraDays.
-Open Infrastructure Days is an event organized by Open Infrastructure User Group around the world. And focused on Open Infrastructure Projects and any related topics.
-Open Infrastructure Days Mexico is one of the regional Open Infrastructure Days. the event is organized by Open Infrastructure User Groups from several regions in Mexico. And it's focused on community development across Mexico. To union community efforts, to develop Open Infrastructure community, and to provide back to each local user groups in Mexico.
+Por primera vez, la comunidad local acogerá este año los OpenInfraDays.
+OpenInfraDays es un evento organizado por grupos de usuarios de OpenInfra en todo el mundo. Y enfocado en Proyectos de Infraestructura Abierta y cualquier tema relacionado.
+El OpenInfraDays México es una de las Jornadas Abiertas de Infraestructura regionales. El evento es organizado por Grupos de Usuarios de OpenInfra de varias regiones de México. Y está enfocado en el desarrollo comunitario en todo México. Unir los esfuerzos de la comunidad, desarrollar la comunidad de Infraestructura Abierta y retribuir a cada grupo de usuarios locales en México.
  - 100% virtual
- - 100% free
+ - 100% gratis
 
-**Save the date**: Open Infrastructure Days Mexico edition will be take place on Monday August 15th.
+**Reserva la fecha**: La edición de OpenInfraDays México se llevará a cabo el lunes 15 de agosto.
 
-Open Infrastructure Days Mexico Format:
-Event will be 100% online and 100% free, interactions will be done by real-time chat between speakers and participants, be ready to make and answer questions, share links or even laboratory environments accesses, please always have the [Code of conduct](https://openinfra.dev/legal/code-of-conduct) in mind.
+El formato de OpenInfraDays México:
+El evento será 100% online y 100% gratuito, las interacciones se realizarán mediante chat en tiempo real entre ponentes y participantes, prepárate para realizar y responder preguntas, compartir enlaces o incluso accesos a entornos de laboratorio, por favor ten siempre el [Código de conducta ](https://openinfra.dev/legal/code-of-conduct) en mente.
 
-Presentations:
-Presentations videos will be prerecorded and shared by the time scheduled, chat rooms will stay open from the beginning of the event and remain open until eternity. We don't need professional setups, just make sure you can record yourself with the background pointing to a wall or something without movement and get a good audio quality, reach out if you have questions or concerns.
+Presentaciones: videos de presentaciones serán pregrabados y compartidos en el tiempo programado, las salas de chat permanecerán abiertas desde el inicio del evento y permanecerán abiertas hasta la eternidad. No necesitamos configuraciones profesionales, solo asegúrese de poder grabarte con el fondo apuntando a una pared o algo sin movimiento y obtener una buena calidad de audio, escríbenos si tienes preguntas o inquietudes.
 
-Chat rooms:
-We will share a [slack](https://slack.oss.lat) invite for all the participants a day before the event opening to be ready to interact and share opinions and questions.
+Salas de chat:
+Compartiremos una invitación por [slack](https://slack.oss.lat) para que todos los participantes un día antes de la apertura del evento estén listos para interactuar y compartir opiniones y preguntas.
+ 
+Código de conducta: 
+Por favor revisa el [Código de conducta](https://openinfra.dev/legal/code-of-conduct).
 
-Code of conduct: 
-Please see [Code of conduct](https://openinfra.dev/legal/code-of-conduct).
+Preguntas:
+Mandanos un correo a hello@openinfradays.mx
 
-Questions:
-Send us an e-mail to hello@openinfradays.mx
-
-We really hope to see you online!
+Esperamos verte conectado!

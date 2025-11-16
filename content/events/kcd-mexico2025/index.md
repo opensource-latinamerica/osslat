@@ -1,5 +1,5 @@
 ---
-title: KCD Mexico in Guadalajara, Mexico 2025.
+title: KCD Mexico en Guadalajara, Mexico 2025.
 date: 2025-05-07T19:12:00+08:00
 featured: true
 draft: false
@@ -19,60 +19,48 @@ authors:
 images: ["/images/events/kcd_mexico_2025.jpg"]
 ---
 
-KCD Mexico in Guadalajara, Mexico 2025
+KCD Mexico en Guadalajara, Mexico 2025
 
 <!--more-->
 
-On Saturday, March 29, Guadalajara transformed into the hub of cloud-native technology with the grand
-celebration of Kubernetes Community Day 2025.
-This remarkable event gathered over 200 professionals, enthusiasts, and experts in Kubernetes and cloud
-computing, creating an atmosphere of innovation and collaboration.
+El sábado 29 de marzo, Guadalajara se transformó en el centro de la tecnología nativa de la nube con la gran celebración del Día de la Comunidad de Kubernetes 2025. Este extraordinario evento reunió a más de 200 profesionales, entusiastas y expertos en Kubernetes y computación en la nube, creando un ambiente de innovación y colaboración.
 
 <!-- image attendees -->
 
-## A Day of Learning and Connection
+## Un Día de Aprendizaje y Conexión
 
-The event provided a vibrant platform where the community exchanged ideas, tools, and best practices that
-shapes the future of infrastructure as code. With a depth focus on technical content and collaborative
-environment, the day was packed with opportunities for learning, connecting, and building together.
+El evento brindó una plataforma dinámica donde la comunidad intercambió ideas, herramientas y mejores prácticas que moldean el futuro de la infraestructura como código. Con un enfoque profundo en el contenido técnico y un entorno colaborativo, el día estuvo repleto de oportunidades para aprender, conectar y construir juntos.
 
-## A Global Agenda
+## Una Agenda Global
 
-Featuring more than 30 international speakers from the US, Spain, Costa Rica, Colombia, Brazil, and Guatemala,
-alongside national leaders, the event offered a diverse range of talks, workshops, and live demos.
-Key topics included optimization, security, and scalability in Kubernetes, with a focus on tools and strategies
-to maximize the potential of cloud-native environments.
+Con la participación de más de 30 ponentes internacionales de EE. UU., España, Costa Rica, Colombia, Brasil y Guatemala, junto con líderes nacionales, el evento ofreció una amplia gama de charlas, talleres y demostraciones en vivo.
+Los temas clave incluyeron optimización, seguridad y escalabilidad en Kubernetes, con un enfoque en herramientas y estrategias para maximizar el potencial de los entornos nativos de la nube.
 
+## Aspectos destacados y temas clave
 
-## Highlights and Key Topics
+El evento abordó temas cruciales relacionados con la optimización y la eficiencia de Kubernetes, con énfasis en herramientas que mejoran la gestión de recursos, la seguridad y la escalabilidad de las aplicaciones. Entre los aspectos destacados se incluyen:
+- Karpenter + Amazon EKS: Escalado automático inteligente con instancias Spot y procesadores Graviton para un rendimiento óptimo y una excelente relación calidad-precio.
+- Seguridad ante todo: Estrategias de refuerzo para cumplir con normativas como PCI DSS, HIPAA y RGPD, protegiendo los clústeres contra amenazas reales.
+- API Gateway, OpenTelemetry y Cilium: Visibilidad, trazabilidad y control mejorados en entornos distribuidos.
+- Istio + KubeVirt: Arquitecturas híbridas que combinan lo mejor de los contenedores y las máquinas virtuales.
+- CI/CD nativo de la nube: Migraciones de acciones alojadas en GitHub a soluciones autoalojadas con KubeVirt.
+- Infraestructura ecológica: Mejores prácticas para reducir el impacto ambiental sin comprometer la eficiencia ni el presupuesto.
 
-The event delved into crucial topics related to Kubernetes optimization and efficiency, emphasizing tools that
-enhance resource management, security, and application scalability. Highlights included:
-- Karpenter + Amazon EKS: Intelligent autoscaling with Spot instances and Graviton processors for optimal performance and cost efficiency.
-- Security First: Hardening strategies to comply with regulations like PCI DSS, HIPAA, and GDPR, fortifying clusters against real threats.
-- API Gateway, OpenTelemetry, and Cilium: Enhanced visibility, traceability, and control in distributed environments.
-- Istio + KubeVirt: Hybrid architectures combining the best of containers and virtual machines.
-- Cloud-native CI/CD: Migrations from GitHub-Hosted Actions to Self-Hosted solutions with KubeVirt.
-- Green Infrastructure: Best practices to reduce environmental impact without compromising efficiency or budget.
+## Más que un evento más, esta fue una experiencia de inmersión total.
 
-## More than another event, this was a fully immersed experience
+KCD México 2025 fue más que una conferencia más; fue una experiencia que fortaleció la comunidad. Los asistentes no solo aprendieron de líderes globales, sino que también compartieron experiencias, desafíos y lecciones con colegas de toda Latinoamérica.
+Las sesiones de preguntas y respuestas generaron debates profundos sobre la implementación, los problemas comunes y las soluciones de producción innovadoras, todo en un ambiente colaborativo, abierto y dinámico.
 
-KCD Mexico 2025 was more than just another conference; it was a community-building experience. Attendees not only learned
-from global leaders but also shared experiences, challenges, and lessons with peers from across Latin America.
-The Q&A sessions sparked in-depth discussions about implementation, common pitfalls, and innovative production solutions,
-all in a collaborative, open, and energetic environment.
+## Comunidad + Tecnología = Futuro
 
-## Community + Technology = Future
+KCD México fue una vibrante celebración de colaboración, innovación y excelencia técnica. Celebrado en Guadalajara, reconocida como el Silicon Valley de México, el evento resaltó la creciente influencia de la ciudad como centro de tecnologías nativas de la nube y de código abierto. Reafirmó el papel fundamental de la comunidad en el avance del ecosistema Kubernetes.
 
-KCD Mexico was a vibrant celebration of collaboration, innovation, and technical excellence. Set in Guadalajara—widely recognized as the Silicon Valley of Mexico—the event underscored the city's growing influence as a hub for cloud-native and open-source technologies. It reaffirmed the community's pivotal role in driving the Kubernetes ecosystem forward.
+Desde DevOps y CI/CD hasta Crossplane, EKS, Istio y KubeVirt, las sesiones presentaron herramientas poderosas y estrategias innovadoras para abordar los desafíos actuales de infraestructura. Más que una simple conferencia, KCD México sirvió como catalizador: conectó a profesionales, generó nuevas ideas y capacitó a los participantes con conocimientos prácticos para implementar de inmediato.
 
-From DevOps and CI/CD to Crossplane, EKS, Istio, and KubeVirt, the sessions showcased powerful tools and forward-thinking strategies to address today’s infrastructure challenges. More than just a conference, KCD Mexico served as a catalyst—connecting professionals, sparking new ideas, and empowering participants with practical knowledge to implement immediately.
+## Agradecimiento a Nuestros Patrocinadores y Organizadores
 
-## Gratitude to Our Sponsors and Organizers
+Agradecemos profundamente a nuestros generosos patrocinadores: Akamai, AWS, Cast AI, CNCF, EPAM, Hopla Software, Improving, Koch, SoftServe, SUSE y Zillow, cuyo apoyo hizo posible este evento.
 
-We are deeply grateful to our generous sponsors—Akamai, AWS, Cast AI, CNCF, EPAM, Hopla Software, Improving, Koch, SoftServe, SUSE, and Zillow—whose support made this event possible.
+Un sincero agradecimiento a los apasionados organizadores: Abraham Alfaro, Alejandro Mercado, Alejandro Rodríguez, Álvaro Soto, Cassandra Valadez, Eduardo Salazar, Gloria González, Hazzim Anaya, Rodolfo Martínez y Víctor Morales. Su dedicación convirtió una visión en una experiencia verdaderamente impactante.
 
-A heartfelt thank you goes out to the passionate organizers: Abraham Alfaro, Alejandro Mercado, Alejandro Rodríguez, Álvaro Soto, Cassandra Valadez, Eduardo Salazar, Gloria González, Hazzim Anaya, Rodolfo Martinez, and Victor Morales. Your dedication turned a vision into a truly impactful experience.
-
-Together, from the heart of Mexico’s tech capital, we are shaping the future of cloud-native technology—one community-driven step at a time.
-
+Juntos, desde el corazón de la capital tecnológica de México, estamos construyendo el futuro de la tecnología nativa de la nube, paso a paso, impulsados por la comunidad.
