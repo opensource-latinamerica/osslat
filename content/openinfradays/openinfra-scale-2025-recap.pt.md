@@ -10,6 +10,7 @@ pinned: false
 carousel: true
 categories:
   - events
+  - OpenInfraDays
 tags:
   - OpenInfra
   - SCaLE
@@ -17,6 +18,7 @@ tags:
   - Kubernetes
   - AI
   - Community
+  - OpenInfraDays
 authors:
   - oss.lat
 images:

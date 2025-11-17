@@ -10,7 +10,7 @@ reward: false
 pinned: false
 carousel: false
 categories:
-  - blog
+  - openinfra
 tags:
   - community
 authors:
