@@ -1,5 +1,5 @@
 ---
-title: Friends
+title: Amigos
 date: 2023-09-20T11:34:47+08:00
 featured: true
 draft: false
@@ -12,28 +12,28 @@ series:
   - News
 categories:
   - Mkt
-tags: 
+tags:
   - Advertising
 authors:
   - alvaro.soto
 images: ["/images/news/Love_you.jpg"]
 ---
 
-Our current friends list
+Nuestra lista de amigos actual
 
 <!--more-->
 
 ![KMMX](https://mirrors.headup.ws/random/images/logo-kmmx-2012-fondo-blanco.png?width=500px#center "https://kmmx.mx/")
-\
+
 ![KloudXperts](https://mirrors.headup.ws/random/images/kloudxperts-logo.jpg?width=500px#center "https://www.kloudxp.com/")
-\
-![Sentinel.la](https://mirrors.headup.ws/random/images/sentinella-logo2.png?width=500px#center "https://www.sentinel.la")
-\
+
+![Sentinel.la](https://mirrors.headup.ws/random/images/Sentinella.logo-02.png?width=500px#center "https://www.sentinel.la")
+
 ![Bitergia](https://mirrors.headup.ws/random/images/Bitergia.jpg?width=300px#center "https://bitergia.com/")
 
 ---
 
-\
+
 ![OpenInfra Foundation](https://mirrors.headup.ws/random/images/openinfra.png?width=300px#center "https://openinfra.dev/")
 ![Ceph Foundation](https://ceph.io/assets/bitmaps/Ceph_Logo_Standard_RGB_120411_fa.png?width=300px#center "https://ceph.io/")
 

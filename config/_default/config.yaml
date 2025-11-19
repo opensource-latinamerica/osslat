@@ -7,7 +7,7 @@ defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
 
 pagination:
-  pagerSize: 10
+  pagerSize: 5
   path: page
 
 taxonomies:

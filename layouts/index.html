@@ -1,0 +1,13 @@
+{{ define "content" }}
+{{- partial "carousel" . -}}
+<div class="{{ if default true .Params.sidebar }}col-xxl-8{{ else }}col-xxl-12{{ end }}">
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+  <div class="posts mb-4">
+  {{ range $paginator.Pages }}
+    {{- partial "list-item" (dict "Page" . "PinnedPosts" ($.Scratch.Get "pinnedPosts")) }}
+  {{ end }}
+  </div>
+  {{- partial "pagination" . }}
+</div>
+{{- partial "sidebar" . -}}
+{{ end }}

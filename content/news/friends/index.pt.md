@@ -23,18 +23,18 @@ Nossa lista atual de amigos
 
 <!--more-->
 
-![KMMX](https://us.mirrors.headup.ws/random/images/logo-kmmx-2012-fondo-blanco.png?width=500px#center "https://kmmx.mx/")
+![KMMX](https://mirrors.headup.ws/random/images/logo-kmmx-2012-fondo-blanco.png?width=500px#center "https://kmmx.mx/")
 
-![KloudXperts](https://us.mirrors.headup.ws/random/images/kloudxperts-logo.jpg?width=500px#center "https://www.kloudxp.com/")
+![KloudXperts](https://mirrors.headup.ws/random/images/kloudxperts-logo.jpg?width=500px#center "https://www.kloudxp.com/")
 
-![Sentinel.la](https://us.mirrors.headup.s3.amazonaws.com/random/images/sentinella-logo2.png?width=500px#center "https://www.sentinel.la")
+![Sentinel.la](https://mirrors.headup.ws/random/images/sentinella-logo2.png?width=500px#center "https://www.sentinel.la")
 
-![Bitergia](https://us.mirrors.headup.s3.amazonaws.com/random/images/Bitergia.jpg?width=300px#center "https://bitergia.com/")
+![Bitergia](https://mirrors.headup.ws/random/images/Bitergia.jpg?width=300px#center "https://bitergia.com/")
 
 ---
 
 
-![OpenInfra Foundation](https://us.mirrors.headup.s3.amazonaws.com/random/images/openinfra.png?width=300px#center "https://openinfra.dev/")
+![OpenInfra Foundation](https://mirrors.headup.ws/random/images/openinfra.png?width=300px#center "https://openinfra.dev/")
 ![Ceph Foundation](https://ceph.io/assets/bitmaps/Ceph_Logo_Standard_RGB_120411_fa.png?width=300px#center "https://ceph.io/")
 
 ---

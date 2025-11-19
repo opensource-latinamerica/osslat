@@ -1,27 +1,27 @@
 ---
-main: 
+main:
   - name: Blog
     identifier: blog
     weight: 1
-    url: /en/blog
+    url: "/pt/blog"
     params:
       icon: '<i class="fas fa-fw fa-terminal"></i>'
-  - name: News
-    identifier: news
+  - name: Notícias
+    identifier: Noticias
     weight: 2
-    url: /en/news
+    url: "/pt/news"
     params:
       icon: '<i class="fas fa-fw fa-newspaper"></i>'
-  - name: Authors
-    identifier: authors
+  - name: Autores
+    identifier: autores
     weight: 3
-    url: /en/authors
+    url: "/pt/authors"
     params:
       icon: '<i class="fas fa-fw fa-heart"></i>'
-  - name: Events
-    identifier: Events
+  - name: Eventos
+    identifier: Eventos
     weight: 100
-    url: /en/events
-    params: 
+    url: "/pt/events"
+    params:
       icon: '<i class="fas fa-fw fa-bug"></i>'
 ---

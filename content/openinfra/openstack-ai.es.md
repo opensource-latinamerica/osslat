@@ -9,7 +9,7 @@ reward: false
 pinned: false
 carousel: true
 categories:
-  - blog
+  - openinfra
 tags:
   - openstack
   - ia
