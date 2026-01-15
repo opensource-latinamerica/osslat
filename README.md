@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white" /></a>
 </p>
 
-| **ESPAÑOL**                                                                                                | **ENGLISH**                                                                                    |
-|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Repositorio de código para albergar la página web del grupo latinoamericano de la comunidad de OpenSource. | Code repository to store the web user group for the Latin American OpenSource community.       |
-| Tecnologías que usamos: [Hugo](https://gohugo.io/) y [HBS Theme](https://hbs.razonyang.com/)            | Technologies we use: [Hugo](https://gohugo.io/) and [HBS Theme](https://hbs.razonyang.com/) |
+| **ESPAÑOL** | **ENGLISH** | **PORTUGUÊS** |
+|---|---|---|
+| Repositorio de código para albergar la página web del grupo latinoamericano de la comunidad de OpenSource. | Code repository to store the web user group for the Latin American OpenSource community. | Repositório de código para armazenar a página web do grupo latino-americano da comunidade OpenSource. |
+| Tecnologías que usamos: [Hugo](https://gohugo.io/) y [HBS Theme](https://hbs.razonyang.com/) | Technologies we use: [Hugo](https://gohugo.io/) and [HBS Theme](https://hbs.razonyang.com/) | Tecnologias que usamos: [Hugo](https://gohugo.io/) e [HBS Theme](https://hbs.razonyang.com/) |
