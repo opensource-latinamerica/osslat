@@ -1,6 +1,6 @@
 ---
 title: "The Great Migration: Why Broadcom's VMware Decisions Are Driving Customers to OpenStack"
-date: 2025-10-01T10:00:00-06:00
+date: 2025-10-01T00:00:00-06:00
 featured: true
 draft: false
 comment: false

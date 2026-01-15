@@ -1,6 +1,6 @@
 ---
 title: "A IA Precisa de um Lar: Por Que o OpenStack é a Usina de Energia para a Inteligência Artificial"
-date: 2025-11-13T10:00:00-06:00
+date: 2025-11-13T00:00:00-06:00
 featured: true
 draft: false
 comment: false

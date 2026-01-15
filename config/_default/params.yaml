@@ -4,6 +4,7 @@ mainSections:
   - blog
   - events
   - openinfradays
+  - openinfra
 
 # titleSeparator: '|' # Title separator. Default to -.
 

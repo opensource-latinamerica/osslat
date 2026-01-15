@@ -1,6 +1,6 @@
 ---
 title: "OpenStack en Latinoamérica: El Motor de la Soberanía Digital y la Innovación"
-date: 2025-09-14T10:00:00-06:00
+date: 2025-09-14T00:00:00-06:00
 featured: true
 draft: false
 comment: false

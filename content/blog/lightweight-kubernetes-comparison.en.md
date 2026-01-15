@@ -1,6 +1,6 @@
 ---
 title: "Want Kubernetes Fast? k3s, MicroK8s, Kind, & Minikube Compared"
-date: 2025-10-15T10:00:00-06:00
+date: 2025-10-15T00:00:00-06:00
 draft: false
 featured: true
 comment: false

@@ -41,8 +41,10 @@ No entanto, é essencial estar ciente dos potenciais riscos e desafios associado
 - A identidade e a autonomia da OpenInfra seriam diminuídas como resultado desta fusão, o que teria repercussões para a comunidade, bem como para os projetos associados a ela.
 - É possível que a fusão resulte em a OpenInfra se tornar excessivamente dependente da Linux Foundation, o que tornaria mais difícil para a organização tomar decisões independentes e seguir sua própria visão dentro da organização.
 
-Uma fusão entre a OpenInfra Foundation e a Linux Foundation poderia ser benéfica não apenas para ambas as organizações, mas também para toda a comunidade de código aberto, desde que a integração dos elementos culturais e operacionais seja gerenciada de maneira apropriada e que a autonomia e a identidade da OpenInfra sejam mantidas sob as circunstâncias.
+Uma fusão entre a OpenInfra Foundation e a Linux Foundation poderia ser benéfica não apenas para ambas as organizações, mas também para a comunidade de código aberto como um todo, desde que a integração de elementos culturais e operacionais seja gerenciada de maneira adequada e que a autonomia e identidade da OpenInfra sejam mantidas sob as circunstâncias.
+
+Para uma visão mais aprofundada de como a OpenInfra Foundation já está promovendo um ambiente inclusivo — um valor compartilhado com a Linux Foundation — leia nosso artigo sobre as [Iniciativas DEI da OpenInfra Foundation]({{< ref "/openinfra/openinfrafoundation-dei-initiatives" >}}).
 
 Obrigado por ler.
 
-Qualquer contribuição é bem-vinda, sinta-se à vontade para nos contatar através do nosso [repositório no GitHub](https://github.com/opensource-latinamerica/openinframx). Esta pode ser uma jornada incrível.
+Qualquer contribuição é bem-vinda, sinta-se à vontade para nos contatar através do nosso [repositório GitHub](https://github.com/opensource-latinamerica/openinframx). Esta pode ser uma jornada incrível.

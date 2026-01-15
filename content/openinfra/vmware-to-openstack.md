@@ -1,6 +1,6 @@
 ---
 title: "La Gran Migración: Por Qué las Decisiones de Broadcom sobre VMware Están Llevando a los Clientes a OpenStack"
-date: 2025-10-01T10:00:00-06:00
+date: 2025-10-01T00:00:00-06:00
 draft: false
 featured: true
 comment: false

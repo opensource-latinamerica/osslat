@@ -43,6 +43,8 @@ Nevertheless, it is essential to be aware of the potential risks and challenges 
 
 A merge between the OpenInfra Foundation and the Linux Foundation could be beneficial not only for both organizations but also for the open-source community as a whole, provided that the integration of cultural and operational elements are managed in an appropriate manner and that OpenInfra's autonomy and identity are maintained under the circumstances.
 
+For a deeper look at how the OpenInfra Foundation is already fostering an inclusive environment—a value shared with the Linux Foundation—read our article on [OpenInfra Foundation's DEI Initiatives]({{< ref "/openinfra/openinfrafoundation-dei-initiatives" >}}).
+
 Thanks for reading.
 
 Any contribution is welcome, feel free to reach us through our [GitHub repository](https://github.com/opensource-latinamerica/openinframx). This could be an amazing journey.

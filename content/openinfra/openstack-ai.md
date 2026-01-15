@@ -1,6 +1,6 @@
 ---
 title: "La IA Necesita un Hogar: Por Qué OpenStack es la Central de Energía para la Inteligencia Artificial"
-date: 2025-11-13T10:00:00-06:00
+date: 2025-11-13T00:00:00-06:00
 featured: true
 draft: false
 comment: false

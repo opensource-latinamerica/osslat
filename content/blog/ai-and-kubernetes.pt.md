@@ -1,7 +1,7 @@
 ---
 # type: docs
 title: "IA e Kubernetes: Qual é a Grande Novidade?"
-date: 2025-11-13T10:00:00-06:00
+date: 2025-11-13T00:00:00-06:00
 featured: true
 draft: false
 comment: false
