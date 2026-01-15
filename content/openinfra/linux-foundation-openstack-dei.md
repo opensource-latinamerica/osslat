@@ -1,7 +1,7 @@
 ---
 # type: docs
 title: "Linux Foundation y OpenStack: Defendiendo la Diversidad en el Open Source"
-date: 2025-01-15T00:00:00-06:00
+date: 2026-01-14T00:00:00-06:00
 featured: true
 draft: false
 comment: false
