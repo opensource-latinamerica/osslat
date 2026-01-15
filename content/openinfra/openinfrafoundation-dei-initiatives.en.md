@@ -46,4 +46,4 @@ The OIF champions a comprehensive definition of diversity. It goes beyond the st
 
 The OIF's work mirrors and complements similar efforts across the open source landscape. For instance, the **Linux Foundation and OpenStack** have long championed similar programs, creating a unified front for inclusivity. You can read more about their specific collaborative efforts in our [Linux Foundation and OpenStack DEI analysis]({{< ref "linux-foundation-openstack-dei" >}}).
 
-Furthermore, as the ecosystem evolves—marked by significant strategic moves like the [OpenInfra Foundation's intent to join the Linux Foundation]({{< ref "/blog/openinfra-lf" >}})—these DEI values become the "glue" that holds these merging communities together, ensuring that growth does not come at the cost of inclusion.
+Furthermore, as the ecosystem evolves—marked by significant strategic moves like the [OpenInfra Foundation's intent to join the Linux Foundation]({{< ref "openinfra-lf" >}})—these DEI values become the "glue" that holds these merging communities together, ensuring that growth does not come at the cost of inclusion.
