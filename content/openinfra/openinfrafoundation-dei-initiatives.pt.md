@@ -1,7 +1,7 @@
 ---
 # type: docs
 title: "Iniciativas DEI da OpenInfra Foundation: Construindo uma Comunidade para Todos"
-date: 2026-01-15T00:00:00-06:00
+date: 2025-01-15T00:00:00-06:00
 featured: true
 draft: false
 comment: false

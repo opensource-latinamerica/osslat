@@ -1,7 +1,7 @@
 ---
 # type: docs
 title: "Iniciativas DEI de la OpenInfra Foundation: Construyendo una Comunidad para Todos"
-date: 2026-01-15T00:00:00-06:00
+date: 2025-01-15T00:00:00-06:00
 featured: true
 draft: false
 comment: false
@@ -46,4 +46,4 @@ La OIF defiende una definición integral de diversidad. Va más allá de la demo
 
 El trabajo de la OIF refleja y complementa esfuerzos similares en todo el panorama del código abierto. Por ejemplo, la **Linux Foundation y OpenStack** han defendido durante mucho tiempo programas similares, creando un frente unificado para la inclusión. Puedes leer más sobre sus esfuerzos colaborativos específicos en nuestro [análisis de DEI de Linux Foundation y OpenStack]({{< ref "linux-foundation-openstack-dei" >}}).
 
-Además, a medida que el ecosistema evoluciona —marcado por movimientos estratégicos significativos como la [intención de la OpenInfra Foundation de unirse a la Linux Foundation]({{< ref "/blog/openinfra-lf" >}})— estos valores DEI se convierten en el nexo que mantiene unidas a estas comunidades en fusión, asegurando que el crecimiento no se produzca a costa de la inclusión.
+Además, a medida que el ecosistema evoluciona —marcado por movimientos estratégicos significativos como la [intención de la OpenInfra Foundation de unirse a la Linux Foundation]({{< ref "openinfra-lf" >}})— estos valores DEI se convierten en el nexo que mantiene unidas a estas comunidades en fusión, asegurando que el crecimiento no se produzca a costa de la inclusión.

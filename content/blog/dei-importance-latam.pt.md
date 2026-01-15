@@ -1,7 +1,7 @@
 ---
 # type: docs
 title: "Por que DEI no Open Source é Crítico para a América Latina"
-date: 2026-01-15T00:00:00-06:00
+date: 2025-01-15T00:00:00-06:00
 featured: true
 draft: false
 comment: false
