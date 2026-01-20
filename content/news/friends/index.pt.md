@@ -34,7 +34,7 @@ Nossa lista atual de amigos
 ---
 
 
-![OpenInfra Foundation](https://mirrors.headup.ws/random/images/openinfra.png?width=300px#center "https://openinfra.dev/")
+![OpenInfra Foundation](/images/openinfra-logo.jpeg?width=300px#center "https://openinfra.dev/")
 ![Ceph Foundation](https://ceph.io/assets/bitmaps/Ceph_Logo_Standard_RGB_120411_fa.png?width=300px#center "https://ceph.io/")
 
 ---
