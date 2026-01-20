@@ -6,6 +6,19 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'archetypes/**'
+      - 'assets/**'
+      - 'config/**'
+      - 'content/**'
+      - 'layouts/**'
+      - 'static/**'
+      - 'themes/**'
+      - 'config.yaml'
+      - 'hokus.yaml'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'package.hugo.json'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
