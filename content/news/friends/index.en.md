@@ -29,7 +29,7 @@ Our current friends list
 \
 ![Sentinel.la](/images/sentinel-logo.png?width=300px#center "https://www.sentinel.la")
 \
-![Bitergia](https://mirrors.headup.ws/random/images/Bitergia.jpg?width=300px#center "https://bitergia.com/")
+![Bitergia](/images/bitergia-logo.png?width=300px#center "https://bitergia.com/")
 
 ---
 
