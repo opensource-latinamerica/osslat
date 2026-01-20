@@ -27,7 +27,7 @@ Our current friends list
 \
 ![KloudXperts](https://mirrors.headup.ws/random/images/kloudxperts-logo.jpg?width=500px#center "https://www.kloudxp.com/")
 \
-![Sentinel.la](https://mirrors.headup.ws/random/images/sentinella-logo2.png?width=500px#center "https://www.sentinel.la")
+![Sentinel.la](/images/sentinel-logo.png?width=300px#center "https://www.sentinel.la")
 \
 ![Bitergia](https://mirrors.headup.ws/random/images/Bitergia.jpg?width=300px#center "https://bitergia.com/")
 
