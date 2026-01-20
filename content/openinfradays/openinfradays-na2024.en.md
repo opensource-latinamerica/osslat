@@ -18,7 +18,7 @@ tags:
   - OpenInfraDays
 authors:
   - alvaro.soto
-images: ["/images/openinfradays/oid-na2024.png"]
+images: ["/images/blog/openinfradays/oid-na2024.png"]
 ---
 
 The first ever OpenInfra Days North America (United States, Mexico, and Canada) 2024.
