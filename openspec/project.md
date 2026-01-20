@@ -42,6 +42,12 @@ This document provides a comprehensive overview of the OSS Latam website project
 *   The project uses a customized version of the `hugo-theme-bootstrap` located in the `/themes/` directory.
 *   Layouts and partials are overridden in the root `/layouts/` directory to customize the theme's default behavior.
 
+### Submodules
+
+*   The `/themes/` directory contains git submodules, such as `hugo-theme-bootstrap`.
+*   **Do not** modify the contents of the `/themes/` directory directly within this project.
+*   Any changes to the theme must be made in its own dedicated repository. After the changes are pushed to the theme's repository, the submodule in this project can be updated to point to the new commit.
+
 ### Commits and Version Control
 
 *   This project follows the **Conventional Commits** specification (e.g., `feat:`, `fix:`, `docs:`).
