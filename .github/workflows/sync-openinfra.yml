@@ -35,7 +35,9 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           if [[ -n $(git status -s) ]]; then
             git add .
-            git commit -m "Sync content from osslat"
+            ORIGINAL_COMMIT_MESSAGE="${{ github.event.head_commit.message }}"
+            NEW_COMMIT_MESSAGE="repo(sync): $ORIGINAL_COMMIT_MESSAGE"
+            git commit -m "$NEW_COMMIT_MESSAGE"
             git push
           else
             echo "No changes to sync."
