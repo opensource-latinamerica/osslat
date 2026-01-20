@@ -23,7 +23,7 @@ Nuestra lista de amigos actual
 
 <!--more-->
 
-![KMMX](https://mirrors.headup.ws/random/images/logo-kmmx-2012-fondo-blanco.png?width=500px#center "https://kmmx.mx/")
+![KMMX](/images/kmmx-logo.png?width=300px#center "https://kmmx.mx/")
 
 ![KloudXperts](/images/kloudxperts-logo.png?width=300px#center "https://www.kloudxp.com/")
 
