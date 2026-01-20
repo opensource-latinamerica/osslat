@@ -25,7 +25,7 @@ Nuestra lista de amigos actual
 
 ![KMMX](https://mirrors.headup.ws/random/images/logo-kmmx-2012-fondo-blanco.png?width=500px#center "https://kmmx.mx/")
 
-![KloudXperts](https://mirrors.headup.ws/random/images/kloudxperts-logo.jpg?width=500px#center "https://www.kloudxp.com/")
+![KloudXperts](/images/kloudxperts-logo.png?width=300px#center "https://www.kloudxp.com/")
 
 ![Sentinel.la](/images/sentinel-logo.png?width=300px#center "https://www.sentinel.la")
 
