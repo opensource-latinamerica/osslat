@@ -30,6 +30,8 @@ Nuestra lista de amigos actual
 ![Sentinel.la](/images/sentinel-logo.png?width=300px#center "https://www.sentinel.la")
 
 ![Bitergia](/images/bitergia-logo.png?width=300px#center "https://bitergia.com/")
+\
+![Infinity](/images/infinity-logo.png?width=300px#center "https://github.com/Lpineda0")
 
 ---
 
