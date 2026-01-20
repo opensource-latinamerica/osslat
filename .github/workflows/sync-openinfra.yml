@@ -1,0 +1,43 @@
+name: Sync content to openinframx
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/openinfra/**'
+      - 'content/authors/**'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout osslat
+        uses: actions/checkout@v4
+        with:
+          path: osslat
+
+      - name: Checkout openinframx
+        uses: actions/checkout@v4
+        with:
+          repository: opensource-latinamerica/openinframx
+          path: openinframx
+          token: ${{ secrets.SYNC_PAT }}
+
+      - name: Sync content
+        run: |
+          rsync -av osslat/content/openinfra/ openinframx/content/openinfra/
+          rsync -av osslat/content/authors/ openinframx/content/authors/
+
+      - name: Commit and push changes
+        run: |
+          cd openinframx
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if [[ -n $(git status -s) ]]; then
+            git add .
+            git commit -m "Sync content from osslat"
+            git push
+          else
+            echo "No changes to sync."
+          fi
