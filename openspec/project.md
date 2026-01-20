@@ -22,11 +22,11 @@ This document provides a comprehensive overview of the OSS Latam website project
 
 ### Content Structure
 
-*   The website is fully multilingual, supporting **English (en)**, **Spanish (es)**, and **Portuguese (pt)**.
+*   The website is fully multilingual, supporting **Spanish (es)** as the main language, followed by **English (en)** and **Portuguese (pt)**.
 *   All content is located in the `/content/` directory.
 *   For every piece of content, there must be a corresponding file for each supported language, using the appropriate language code suffix. For example:
+    *   `my-post.es.md` (Spanish - Main)
     *   `my-post.en.md` (English)
-    *   `my-post.es.md` (Spanish)
     *   `my-post.pt.md` (Portuguese)
 *   Content organization is directory-based. For example, all blog posts reside in `/content/blog/`, community news in `/content/news/`, and so on.
 
