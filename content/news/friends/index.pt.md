@@ -31,7 +31,7 @@ Nossa lista atual de amigos
 
 ![Bitergia](/images/bitergia-logo.png?width=300px#center "https://bitergia.com/")
 \
-![Infinity](/images/infinity-logo.png?width=300px#center "https://github.com/Lpineda0")
+![Infinity](/images/infinity-logo.png?width=300px#center "https://www.instagram.com/infinitymkt8")
 
 ---
 
