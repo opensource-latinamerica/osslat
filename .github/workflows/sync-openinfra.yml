@@ -8,7 +8,7 @@ on:
       - 'content/openinfra/**'
       - 'static/images/blog/openinfra/**'
       - 'content/openinfradays/**'
-      - 'static/images/openinfradays/**'
+      - 'static/images/blog/openinfradays/**'
 
 jobs:
   sync:
@@ -32,7 +32,7 @@ jobs:
           rsync -av osslat/content/authors/ openinframx/content/authors/
           rsync -av osslat/static/images/blog/openinfra/ openinframx/static/images/blog/openinfra/
           rsync -av osslat/content/openinfradays/ openinframx/content/openinfradays/
-          rsync -av osslat/static/images/openinfradays/ openinframx/static/images/openinfradays/
+          rsync -av osslat/static/images/blog/openinfradays/ openinframx/static/images/blog/openinfradays/
 
       - name: Commit and push changes
         run: |
