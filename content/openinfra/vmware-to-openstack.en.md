@@ -21,7 +21,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/vmware-to-openstack.png
+  - /images/blog/openinfra/vmware-to-openstack.png
 ---
 
 The technology landscape is experiencing a major shift, and it’s all centered around virtualization. The acquisition of VMware by Broadcom has set off a tidal wave of strategic reviews in IT departments worldwide.

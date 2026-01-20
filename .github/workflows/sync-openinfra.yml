@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'content/openinfra/**'
+      - 'static/images/blog/openinfra/**'
 
 jobs:
   sync:
@@ -27,6 +28,7 @@ jobs:
         run: |
           rsync -av osslat/content/openinfra/ openinframx/content/openinfra/
           rsync -av osslat/content/authors/ openinframx/content/authors/
+          rsync -av osslat/static/images/blog/openinfra/ openinframx/static/images/blog/openinfra/
 
       - name: Commit and push changes
         run: |

@@ -21,7 +21,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/openstack-latam.jpg
+  - /images/blog/openinfra/openstack-latam.jpg
 ---
 
 As Latin America's digital transformation accelerates, a critical question emerges: who will power this new digital infrastructure?

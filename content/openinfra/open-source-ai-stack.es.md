@@ -19,7 +19,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/sovereign-ai-stack.png
+  - /images/blog/openinfra/sovereign-ai-stack.png
 ---
 
 La revolución de la IA está aquí, pero está creando un nuevo tipo de dependencia. A medida que las organizaciones se apresuran a crear aplicaciones impulsadas por IA, muchas están optando por la nube pública, cediendo el control sobre sus datos, su computación y sus costos. Pero hay otra manera. Puede construir un **Stack de IA Soberano**, una infraestructura de código abierto y local que le brinda propiedad y control total.

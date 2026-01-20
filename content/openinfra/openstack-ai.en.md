@@ -20,7 +20,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/openstack-ai.svg
+  - /images/blog/openinfra/openstack-ai.svg
 ---
 
 Artificial Intelligence, Machine Learning, and GenAI are no longer just buzzwords; they are massive, production-grade workloads. But this revolution runs on a very specific, very expensive, and very power-hungry resource: **accelerators like GPUs**.

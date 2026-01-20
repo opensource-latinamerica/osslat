@@ -20,7 +20,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/openstack-ai.svg
+  - /images/blog/openinfra/openstack-ai.svg
 ---
 
 Inteligência Artificial, Aprendizado de Máquina e GenAI não são mais apenas palavras da moda; são cargas de trabalho massivas de nível de produção. Mas essa revolução funciona com um recurso muito específico, muito caro e que consome muita energia: **aceleradores como GPUs**.

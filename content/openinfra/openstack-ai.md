@@ -20,7 +20,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/openstack-ai.svg
+  - /images/blog/openinfra/openstack-ai.svg
 ---
 
 La Inteligencia Artificial, el Machine Learning y la IA Generativa ya no son solo palabras de moda; son cargas de trabajo masivas de grado de producción. Pero esta revolución funciona con un recurso muy específico, muy caro y que consume mucha energía: **aceleradores como las GPUs**.

@@ -20,7 +20,7 @@ authors:
   - alvaro.soto
 images:
   [
-    "/images/blog/openinfra-dei.png"
+    "/images/blog/openinfra/openinfra-dei.png"
   ]
 ---
 

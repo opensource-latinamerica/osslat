@@ -21,7 +21,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/openstack-latam.jpg
+  - /images/blog/openinfra/openstack-latam.jpg
 ---
 
 À medida que a transformação digital da América Latina se acelera, surge uma questão crítica: quem irá alimentar esta nova infraestrutura digital?

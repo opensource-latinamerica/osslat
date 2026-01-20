@@ -17,7 +17,7 @@ authors:
   - openinfra.mexico
 images:
   [
-    "/images/blog/summit2023_banner.jpg"
+    "/images/blog/openinfra/summit2023_banner.jpg"
   ]
 ---
 

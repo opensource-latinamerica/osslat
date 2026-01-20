@@ -21,7 +21,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/openstack-latam.jpg
+  - /images/blog/openinfra/openstack-latam.jpg
 ---
 
 A medida que se acelera la transformación digital de América Latina, surge una pregunta fundamental: ¿quién impulsará esta nueva infraestructura digital?

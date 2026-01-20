@@ -17,7 +17,7 @@ authors:
   - alvaro.soto
 images:
   [
-    "/images/blog/oif-lf.jpg"
+    "/images/blog/openinfra/oif-lf.jpg"
   ]
 ---
 

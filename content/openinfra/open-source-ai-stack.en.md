@@ -19,7 +19,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/sovereign-ai-stack.png
+  - /images/blog/openinfra/sovereign-ai-stack.png
 ---
 
 The AI revolution is here, but it's creating a new kind of dependency. As organizations race to build AI-powered applications, many are defaulting to the public cloud, surrendering control over their data, their compute, and their costs. But there's another way. You can build a **Sovereign AI Stack**—an open source, on-premise infrastructure that gives you full ownership and control.

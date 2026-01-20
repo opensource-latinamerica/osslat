@@ -20,7 +20,7 @@ authors:
   - alvaro.soto
 images:
   [
-    "/images/blog/lf-openstack-dei.png"
+    "/images/blog/openinfra/lf-openstack-dei.png"
   ]
 ---
 

@@ -19,7 +19,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/blog/sovereign-ai-stack.png
+  - /images/blog/openinfra/sovereign-ai-stack.png
 ---
 
 A revolução da IA está aqui, mas está a criar um novo tipo de dependência. À medida que as organizações correm para construir aplicações alimentadas por IA, muitas estão a recorrer à nuvem pública, abdicando do controlo sobre os seus dados, a sua computação e os seus custos. Mas há outra maneira. Pode construir uma **Pilha de IA Soberana**—uma infraestrutura de código aberto e no local que lhe dá total propriedade e controlo.
