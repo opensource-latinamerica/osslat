@@ -51,3 +51,39 @@ This document provides a comprehensive overview of the OSS Latam website project
 
 *   A GitHub Actions workflow located at `.github/workflows/hugo.yaml` is responsible for building and deploying the Hugo site to GitHub Pages.
 *   Another workflow, `.github/workflows/sync-openinfra.yml`, syncs specific content directories to an external repository. This action is triggered only by changes in the `content/openinfra/` path.
+
+## Image Specifications
+
+To ensure a consistent and performant user experience, all images committed to this repository should adhere to the following guidelines.
+
+### General Guidelines
+
+*   **Optimization:** All images **must** be optimized before being committed. Use tools like [TinyPNG](https://tinypng.com/) / [TinyJPG](https://tinyjpg.com/), [ImageOptim](https://imageoptim.com/), or `squoosh` to reduce file size without significant quality loss. Aim for a file size under 150KB for banners and under 50KB for smaller images where possible.
+*   **Format Selection:**
+    *   **WebP (`.webp`):** Preferred format for all raster images (photographs, banners) due to its superior compression and quality characteristics.
+    *   **PNG (`.png`):** Use for graphics that require transparency (e.g., some logos, icons).
+    *   **JPEG (`.jpg`):** Use for photographs if WebP is not feasible. Avoid for graphics with sharp lines or text.
+    *   **SVG (`.svg`):** Preferred for all logos, icons, and simple graphics. SVGs are resolution-independent and typically have a very small file size.
+*   **File Naming:** Use descriptive, lowercase, kebab-case filenames (e.g., `sovereign-ai-stack-banner.webp`).
+
+### Specific Image Types
+
+#### Blog Post Banners
+
+*   **Path:** `static/images/blog/<category>/` (e.g., `static/images/blog/openinfra/`)
+*   **Aspect Ratio:** 1.91:1 (A common social media and card-friendly aspect ratio)
+*   **Recommended Dimensions:** `1200px` by `630px`. This size works well for most social sharing platforms (e-g., Twitter, LinkedIn, Facebook).
+*   **Format:** WebP
+
+#### Author Images
+
+*   **Path:** `static/images/authors/`
+*   **Aspect Ratio:** 1:1 (Square)
+*   **Recommended Dimensions:** `400px` by `400px`.
+*   **Format:** WebP or JPEG.
+
+#### Sponsor/Friend Logos
+
+*   **Path:** `static/images/`
+*   **Dimensions:** Maintain a consistent width for all logos in a list to ensure visual alignment. The current standard is `300px` width. The height should be auto-adjusted to maintain the logo's aspect ratio.
+*   **Format:** SVG is highly preferred. If SVG is not available, use a transparent PNG.
