@@ -22,7 +22,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/events/openinfra-scale-2025.jpg
+  - /images/blog/openinfradays/openinfra-scale-2025.jpg
 ---
 
 Para la comunidad de código abierto, hay pocos eventos tan auténticos como la Exposición de Linux del Sur de California, más conocida como **SCaLE**. Es la conferencia de código abierto más grande de Norteamérica gestionada por la propia comunidad. Por eso, tuvo todo el sentido del mundo que la **Fundación OpenInfra** eligiera co-localizar su evento **"OpenInfra Days North America"** justo allí este año en Pasadena.

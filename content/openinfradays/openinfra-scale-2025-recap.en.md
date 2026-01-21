@@ -22,7 +22,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/events/openinfra-scale-2025.jpg
+  - /images/blog/openinfradays/openinfra-scale-2025.jpg
 ---
 
 For the open-source community, there are few events as authentic as the Southern California Linux Expo, better known as **SCaLE**. It’s the largest community-run open-source conference in North America. So, it made perfect sense that the **OpenInfra Foundation** chose to co-locate its **"OpenInfra Days North America"** event right alongside it this year in Pasadena.

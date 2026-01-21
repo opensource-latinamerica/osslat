@@ -18,7 +18,7 @@ tags:
   - OpenInfraDays
 authors:
   - alvaro.soto
-images: ["/images/Mexico-OpenInfra-Days-Black2x.png"]
+images: ["/images/blog/openinfradays/Mexico-OpenInfra-Days-Black2x.png"]
 ---
 
 O primeiro OpenInfra Days México, 100% organizado pela comunidade local.
