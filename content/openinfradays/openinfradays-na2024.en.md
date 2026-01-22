@@ -17,7 +17,7 @@ tags:
   - Advertising
   - OpenInfraDays
 authors:
-  - alvaro.soto
+  - openinfra.mexico
 images: ["/images/blog/openinfradays/oid-na2024.png"]
 ---
 
