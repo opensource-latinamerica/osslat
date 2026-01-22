@@ -16,8 +16,8 @@ categories:
 tags: 
   - Advertising
   - OpenInfraDays
-authors:
-  - alvaro.soto
+author:
+  - openinfra.mexico
 images: ["/images/blog/openinfradays/Mexico-OpenInfra-Days-Black2x.png"]
 ---
 
