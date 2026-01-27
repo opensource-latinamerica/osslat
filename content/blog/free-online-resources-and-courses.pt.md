@@ -3,7 +3,8 @@ title: "Desbloqueie seu Potencial: Um Guia para Cursos de Tecnologia Online Grat
 author: oss.lat
 date: 2026-01-27
 description: "Explore uma lista com curadoria de cursos online gratuitos de fornecedores líderes como a Linux Foundation, Red Hat e mais. Comece sua jornada em código aberto, nuvem e outros campos de tecnologia em demanda hoje!"
-image: images/blog/free-online-resources-and-courses.jpg
+images:
+    - images/blog/free-online-resources-and-courses.jpg
 tags:
     - Cursos Gratuitos
     - Aprendizagem Online
@@ -16,7 +17,7 @@ No mundo acelerado da tecnologia, a aprendizagem contínua não é apenas uma op
 
 ### A Linux Foundation
 
-A Linux Foundation está na vanguarda do código aberto e estende sua experiência por meio de uma variedade de cursos gratuitos. Esses cursos são perfeitos para iniciantes e para aqueles que procuram obter uma compreensão fundamental das principais tecnologias de código aberto.
+A Linux Foundation está na vanguarda do código abierto e estende sua experiência por meio de uma variedade de cursos gratuitos. Esses cursos são perfeitos para iniciantes e para aqueles que procuram obter uma compreensão fundamental das principais tecnologias de código aberto. Você pode explorar as ofertas deles no [site da Linux Foundation](https://training.linuxfoundation.org/resources/free-courses/).
 
 Alguns dos cursos gratuitos oferecidos incluem:
 - **Blockchain: Understanding its Uses and Implications (LFS170)**
@@ -27,17 +28,17 @@ Alguns dos cursos gratuitos oferecidos incluem:
 A Red Hat, fornecedora líder de soluções de código aberto para empresas, oferece uma variedade de cursos de treinamento e recursos gratuitos. Estes são ótimos para qualquer pessoa interessada em Linux, computação em nuvem e automação.
 
 Você pode encontrar cursos gratuitos através de:
-- **LearnQuest:** Um parceiro de negócios da Red Hat que oferece cursos de visão geral técnica gratuitos.
+- **LearnQuest:** Um parceiro de negócios da Red Hat que oferece cursos de visão geral técnica gratuitos. Saiba mais no [site da LearnQuest](https://www.learnquest.com/free-red-hat-courses.aspx).
   - Red Hat OpenStack Technical Overview (CL010)
   - Containers, Kubernetes and Red Hat OpenShift Technical Overview (DO080)
   - Red Hat Enterprise Linux Technical Overview (RH024)
-- **edX:** A Red Hat oferece vários cursos na edX que podem ser auditados gratuitamente.
+- **edX:** A Red Hat oferece vários cursos na edX que podem ser auditados gratuitamente. Explore-os na [plataforma edX](https://www.edx.org/school/red-hat).
   - Fundamentals of Red Hat Enterprise Linux
   - Fundamentals of Containers, Kubernetes and OpenShift
 
 ### Tetrate Academy
 
-Para os interessados em malha de serviço e tecnologias relacionadas, a Tetrate Academy oferece cursos gratuitos sobre Istio e Envoy.
+Para os interessados em malha de serviço e tecnologias relacionadas, a Tetrate Academy oferece cursos gratuitos sobre Istio e Envoy. Confira em [Tetrate Academy](https://academy.tetrate.io/collections).
 
 - **TSB100 - Introduction to TSB**
 - **CNCF100 - Istio Fundamentals**
@@ -45,6 +46,10 @@ Para os interessados em malha de serviço e tecnologias relacionadas, a Tetrate 
 
 ### IBM SkillsBuild
 
-O IBM SkillsBuild é um programa de educação gratuito que ajuda alunos adultos, estudantes do ensino médio e universitários e professores a desenvolver novas habilidades e encontrar empregos. Eles fizeram parceria com organizações como a Red Hat para fornecer trilhas de aprendizagem em Linux, nuvem e DevOps.
+O IBM SkillsBuild é um programa de educação gratuito que ajuda alunos adultos, estudantes do ensino médio e universitários e professores a desenvolver novas habilidades e encontrar empregos. Eles fizeram parceria com organizações como a Red Hat para fornecer trilhas de aprendizagem em Linux, nuvem e DevOps. Saiba mais no [site do IBM SkillsBuild](https://skillsbuild.org/learners).
 
-Essas plataformas representam apenas uma fração das oportunidades de aprendizado gratuitas disponíveis online. Incentivamos você a explorar esses recursos e dar o primeiro passo em sua jornada de aprendizado hoje. Feliz aprendizado!
+### Santander Open Academy
+
+A Santander Open Academy oferece diversos cursos e bolsas gratuitas em tecnologia, idiomas e habilidades profissionais, muitas vezes em parceria com universidades e instituições líderes. Descubra seus programas no [site da Santander Open Academy](https://www.santanderopenacademy.com/pt_pt/index.html).
+
+Estas plataformas representam apenas uma fração das oportunidades de aprendizado gratuitas disponíveis online. Incentivamos você a explorar estes recursos e dar o primeiro passo em sua jornada de aprendizado hoje. Feliz aprendizado!
