@@ -72,6 +72,7 @@ viewer: true # Image Viewer
 sidebar:
   # fixed: true
   archives: false # Enable archives widget
+  taxonomiesToggleArchives: false # Disable archives from taxonomies toggle
   # taxonomiesToggle: false # Disable taxonomy toggle
   # categories: true # Enable categories widget
   # tags: true # Enable tags widget
