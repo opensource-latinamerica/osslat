@@ -15,12 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout osslat
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           path: osslat
 
       - name: Checkout openinframx
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: opensource-latinamerica/openinframx
           path: openinframx
