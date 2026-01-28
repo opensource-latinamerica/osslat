@@ -1,6 +1,7 @@
 ---
 title: "Desbloquea tu Potencial: Una Guía de Cursos de Tecnología Online Gratuitos"
-author: oss.lat
+authors: 
+    - oss.lat
 date: 2026-01-27
 description: "Explora una lista seleccionada de cursos en línea gratuitos de proveedores líderes como la Linux Foundation, Red Hat y más. ¡Comienza hoy tu viaje en el código abierto, la nube y otros campos tecnológicos en demanda!"
 images:

@@ -1,6 +1,7 @@
 ---
 title: "Unlock Your Potential: A Guide to Free Online Tech Courses"
-author: oss.lat
+authors: 
+    - oss.lat
 date: 2026-01-27
 description: "Explore a curated list of free online courses from leading providers like the Linux Foundation, Red Hat, and more. Start your journey in open source, cloud, and other in-demand tech fields today!"
 images:
