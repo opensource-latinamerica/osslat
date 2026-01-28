@@ -1,7 +1,8 @@
 ---
 title: "Depuração com eBPF 101: Um Guia para Iniciantes"
-author: oss.lat
-date: 2026-01-27
+authors:
+  - oss.lat
+date: 2026-02-02
 description: "Uma introdução amigável para iniciantes ao eBPF para depuração e rastreamento no Linux."
 images:
     - images/blog/ebpf-debugging-basics.png

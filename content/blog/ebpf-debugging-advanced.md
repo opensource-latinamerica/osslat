@@ -1,7 +1,8 @@
 ---
 title: "Mastering eBPF Debugging: Advanced Scripts and Use Cases"
-author: oss.lat
-date: 2026-01-27
+authors:
+  - oss.lat
+date: 2026-02-16
 description: "Unlock the full potential of eBPF by writing custom Python tools with the BCC framework and exploring advanced use cases."
 images:
     - images/blog/ebpf-debugging-advanced.jpeg

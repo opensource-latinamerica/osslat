@@ -1,7 +1,8 @@
 ---
 title: "Depuración con eBPF en la Práctica: Técnicas Intermedias"
-author: oss.lat
-date: 2026-01-27
+authors:
+  - oss.lat
+date: 2026-02-09
 description: "Lleva tus habilidades de depuración con eBPF al siguiente nivel con las herramientas de BCC y scripts de bpftrace más avanzados."
 images:
     - images/blog/ebpf-debugging-intermediate.jpeg

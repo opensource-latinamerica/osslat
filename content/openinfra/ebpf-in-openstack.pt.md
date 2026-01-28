@@ -1,7 +1,8 @@
 ---
 title: "Potencializando o OpenStack com eBPF: Desempenho, Redes e Rastreamento"
-author: oss.lat
-date: 2026-01-27
+authors:
+  - oss.lat
+date: 2026-02-02
 description: "Descubra como o eBPF está revolucionando o OpenStack, fornecendo análises no kernel, redes aceleradas e segurança aprimorada."
 images:
     - images/blog/ebpf-in-openstack.webp

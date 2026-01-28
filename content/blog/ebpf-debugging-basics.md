@@ -1,7 +1,8 @@
 ---
 title: "eBPF Debugging 101: A Beginner's Guide"
-author: oss.lat
-date: 2026-01-27
+authors:
+  - oss.lat
+date: 2026-02-02
 description: "A beginner-friendly introduction to eBPF for debugging and tracing on Linux."
 images:
     - images/blog/ebpf-debugging-basics.png

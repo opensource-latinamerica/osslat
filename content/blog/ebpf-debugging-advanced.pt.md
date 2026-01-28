@@ -1,7 +1,8 @@
 ---
 title: "Dominando a Depuração com eBPF: Scripts e Casos de Uso Avançados"
-author: oss.lat
-date: 2026-01-27
+authors:
+  - oss.lat
+date: 2026-02-16
 description: "Desbloqueie todo o potencial do eBPF escrevendo ferramentas Python personalizadas com o framework BCC e explorando casos de uso avançados."
 images:
     - images/blog/ebpf-debugging-advanced.jpeg

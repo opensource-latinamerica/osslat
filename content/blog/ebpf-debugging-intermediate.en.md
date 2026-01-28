@@ -1,7 +1,8 @@
 ---
 title: "eBPF Debugging in Practice: Intermediate Techniques"
-author: oss.lat
-date: 2026-01-27
+authors:
+  - oss.lat
+date: 2026-02-09
 description: "Take your eBPF debugging skills to the next level with BCC tools and more advanced bpftrace scripts."
 images:
     - images/blog/ebpf-debugging-intermediate.jpeg

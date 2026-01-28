@@ -1,7 +1,8 @@
 ---
 title: "Supercharging OpenStack with eBPF: Performance, Networking, and Tracing"
-author: oss.lat
-date: 2026-01-27
+authors:
+  - oss.lat
+date: 2026-02-02
 description: "Discover how eBPF is revolutionizing OpenStack by providing in-kernel analytics, accelerated networking, and enhanced security."
 images:
     - images/blog/ebpf-in-openstack.webp
