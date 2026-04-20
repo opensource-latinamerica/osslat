@@ -2,6 +2,8 @@
 title: "Adoção do Ceph na América Latina"
 date: 2026-04-19
 authors: ["oss.lat"]
+featured: true
+carousel: true
 categories: ["Storage"]
 tags: ["Ceph", "Latam", "Open Source"]
 images: ["/images/blog/ceph/ceph-latam-adoption.png"]
