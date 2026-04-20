@@ -1,7 +1,7 @@
 ---
 title: "Ceph Adoption in Latin America"
 date: 2026-04-19
-authors: ["oss.lat"]
+authors: ["ceph.mexico"]
 featured: true
 carousel: true
 categories: ["Storage"]
