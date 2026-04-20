@@ -1,0 +1,48 @@
+name: Sync content to cephmx
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/ceph/**'
+      - 'static/images/blog/ceph/**'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout osslat
+        uses: actions/checkout@v6
+        with:
+          path: osslat
+
+      - name: Checkout cephmx
+        uses: actions/checkout@v6
+        with:
+          repository: opensource-latinamerica/cephmx
+          path: cephmx
+          token: ${{ secrets.SYNC_PAT }}
+
+      - name: Sync content
+        run: |
+          mkdir -p cephmx/content/ceph/
+          mkdir -p cephmx/static/images/blog/ceph/
+          rsync -av osslat/content/ceph/ cephmx/content/ceph/
+          rsync -av osslat/content/authors/ cephmx/content/authors/
+          rsync -av osslat/static/images/blog/ceph/ cephmx/static/images/blog/ceph/
+
+      - name: Commit and push changes
+        run: |
+          cd cephmx
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if [[ -n $(git status -s) ]]; then
+            git add .
+            ORIGINAL_COMMIT_MESSAGE="${{ github.event.head_commit.message }}"
+            NEW_COMMIT_MESSAGE="repo(sync): $ORIGINAL_COMMIT_MESSAGE"
+            git commit -m "$NEW_COMMIT_MESSAGE"
+            git push
+          else
+            echo "No changes to sync."
+          fi
