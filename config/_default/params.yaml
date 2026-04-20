@@ -5,6 +5,7 @@ mainSections:
   - events
   - openinfradays
   - openinfra
+  - ceph
 
 # titleSeparator: '|' # Title separator. Default to -.
 
