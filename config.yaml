@@ -1,4 +1,4 @@
 title: OpenSource LATAM
 copyright: 'Copyright © 2022-{year} OpenSource LATAM Community. All Rights Reserved.'
-baseURL: https://oss.lat
+baseURL: https://oss.lat/
 theme: hugo-theme-bootstrap

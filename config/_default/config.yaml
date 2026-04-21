@@ -23,6 +23,7 @@ build:
 permalinks:
   news: /news/:year/:month/:title/
   blog: /blog/:year/:month/:title/
+  ceph: /blog/:year/:month/:title/
 
 security:
   funcs:

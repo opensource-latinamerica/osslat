@@ -1,5 +1,8 @@
 ---
 title: "Ceph Adoption in Latin America"
+aliases: ["/ceph/ceph-latam-adoption/"]
+slug: "ceph-latam-adoption"
+aliases: ["/ceph/ceph-latam-adoption/"]
 date: 2026-04-19
 authors: ["ceph.mexico"]
 featured: true
