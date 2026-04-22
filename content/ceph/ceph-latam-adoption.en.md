@@ -9,6 +9,7 @@ carousel: true
 categories: ["Storage"]
 tags: ["Ceph", "Latam", "Open Source"]
 images: ["/images/blog/ceph/ceph-latam-adoption.png"]
+type: blog
 ---
 
 Ceph adoption in Latin America has grown exponentially in recent years. As a software-defined storage (SDS) solution, Ceph offers the flexibility and scalability that companies in the region need to handle large volumes of data efficiently and economically.
