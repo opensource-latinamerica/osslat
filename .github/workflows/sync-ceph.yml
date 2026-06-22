@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout osslat
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           path: osslat
 
       - name: Checkout cephmx
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: opensource-latinamerica/cephmx
           path: cephmx
